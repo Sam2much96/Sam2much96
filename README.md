@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Sam2much96
-- 👀 I’m interested in Animation tech and Game development
-- 🌱 I’m currently learning Python, Godot game engine, Gdscript
-- 💞️ I’m looking to collaborate on any interesting project
+- 👋 Hi, I’m @Sam2much96. My life has been shit as of late. Don't expect regular commits.
 - 📫 How to reach me by email at Sam2much96@gmaill.com or inhumanityarts@gmail.com
 
 <!---
