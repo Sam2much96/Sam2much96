@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sam2much96. My life has been shit as of late. Don't expect regular commits.
+- 👋 Hi, I’m @Sam2much96. I've Started to Stabilize a bit. Might Increase my Commit Rate.
 - 📫 How to reach me by email at Sam2much96@gmaill.com or inhumanityarts@gmail.com
 
 <!---
