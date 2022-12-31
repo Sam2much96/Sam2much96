@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sam2much96. Full time Game Dev, Animator, Illustrator.
 - I build video games, animation tools, and Blockchain products and apps
-- Verified Android Dev, Python Dev, Linux dev. 
+- Verified Android Dev, Python Dev, Linux dev, Game Dev. 
 - 📫 How to reach me by email at Sam2much96@gmail.com or inhumanityarts@gmail.com
 
 <!---
