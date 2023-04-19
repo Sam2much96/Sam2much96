@@ -19,7 +19,7 @@
 #### ✔️ Game Developer, Unity, Godot Engine.
 #### ✔️ Blockchain Developer, Algorand, Monero, Solidity.
 #### ✔️ machine learning.
-<img src="https://github-readme-stats.vercel.app/api?username=premChapagain&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=Sam2much96&show_icons=true&theme=ADD_THEME_HERE" width="400">
 <p align="left">
 <a href="https://www.linkedin.com/in/<user_id>" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
