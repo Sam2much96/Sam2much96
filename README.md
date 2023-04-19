@@ -1,9 +1,4 @@
 ## Hi there 👋
-<a href="https://twitter.com/inhumaniry_arts" class="button big">Twitter</a>   
-<a href="https://www.linkedin.com/in/samuel-harrison-3264a2201" class="button big">Linkedin</a> <br/>
-<a href="https://www.youtube.com/channel/UCg9pEDKasdN5bXPhabe8Lpw" class="button big">Youtube</a>
-
-
 
 # 🧍 Samuel Onome Harrison
 ####         🎓 Licensed Game Developer, Animator
