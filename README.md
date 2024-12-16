@@ -10,7 +10,7 @@
 #### ✔️ Python Developer.
 #### ✔️ Linux Developer.
 #### ✔️ Rust Developer.
-#### ✔️ C++, C, C# Developer.
+#### ✔️ C++, C Developer.
 #### ✔️ Game Developer, Unity, Godot Engine.
 #### ✔️ Blockchain Developer, Algorand, Monero, Solidity.
 #### ✔️ machine learning.
