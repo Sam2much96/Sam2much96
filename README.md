@@ -11,9 +11,9 @@
 #### ✔️ Linux Developer.
 #### ✔️ Rust Developer.
 #### ✔️ C++, C Developer.
-#### ✔️ Game Developer, Unity, Godot Engine.
-#### ✔️ Blockchain Developer, Algorand, Monero, Solidity.
-#### ✔️ machine learning.
+#### ✔️ Game Developer.
+#### ✔️ Blockchain Developer.
+#### ✔️ Web Developer.
 <img src="https://github-readme-stats.vercel.app/api?username=Sam2much96&show_icons=true&theme=ADD_THEME_HERE" width="400">
 <p align="left">
 <a href="https://www.linkedin.com/in/<user_id>" target="_blank">
