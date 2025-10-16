@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 🧍 Samuel Onome Harrison
-####         🎓 Licensed Game Developer, Animator
+####         🎓 Licensed Game Developer, Animator, Blockchain Developer
 #### 🎓 Bachelors of Science, Finance & Banking.
 
 #  💻 Expertise
